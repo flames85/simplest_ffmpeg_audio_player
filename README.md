@@ -1,1 +1,1 @@
-depend on ffmpeg3
+depend on ffmpeg3 and SDL2.0
